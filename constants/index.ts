@@ -71,3 +71,7 @@ export const recentSessions = [
     color: "#C8FFDF",
   },
 ];
+
+ export const subjectColors: Record<string, string> = {
+  // your color definitions
+};
